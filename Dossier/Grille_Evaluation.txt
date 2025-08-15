@@ -1,0 +1,51 @@
+⚙️ A7 - Conception de l’environnement de développement (CI, virtualisation, IaC)
+
+Choisir les outils : Docker, Vagrant, Ansible, etc.
+
+Produire les fichiers pour tout automatiser (Dockerfile, playbooks, etc.)
+
+Versionner le tout (Git)
+
+Veiller à la cohérence entre dev et prod
+
+🔁 C15 - Intégration continue
+
+Mettre en place un pipeline CI : GitLab CI, GitHub Actions, Jenkins…
+
+Automatiser les builds + tests à chaque commit/push
+
+Justifier les choix (pourquoi cet outil, ce langage, etc.)
+
+🏗️ A8 - Infrastructure as Code (IaC)
+
+Utiliser Ansible, Terraform ou équivalent
+
+Automatiser l’installation des services (Web, DB, etc.)
+
+Automatiser les tests de l’infrastructure
+
+Versionner tous les scripts
+
+🚀 C18 - Déploiement continu
+
+Automatiser le déploiement d’une appli (via pipeline)
+
+Définir une stratégie de mise en prod (staging, blue/green…)
+
+Choisir des outils pertinents (Ansible, GitLab CI/CD, etc.)
+
+📊 A9 - Monitoring
+
+Choisir des métriques (CPU, RAM, erreurs applicatives…)
+
+Mettre en place un outil de monitoring (Prometheus + Grafana, Zabbix, etc.)
+
+Configurer les dashboards, alertes si nécessaire
+
+🔍 A10 - Veille technologique
+
+Faire un état de l’art (sur CI/CD, monitoring, IaC…)
+
+Justifier les outils que tu as choisis
+
+Identifier les sources fiables (blog Docker, doc officielle, etc.)
