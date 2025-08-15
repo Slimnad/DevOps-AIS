@@ -26,8 +26,8 @@ Contribuer
 Les contributions sont les bienvenues !
 Merci de forker le dépôt et de faire des pull requests.
 
+---
+
 Licence
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
-Crée par moi meme :D
