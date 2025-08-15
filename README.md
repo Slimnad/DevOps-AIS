@@ -31,7 +31,4 @@ Merci de forker le dépôt et de faire des pull requests.
 Licence
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-<<<<<<< HEAD
-=======
 
->>>>>>> 07f78c48be8b3837775d570ef9a67ab65251b3b3
