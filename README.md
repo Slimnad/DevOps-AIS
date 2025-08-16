@@ -20,6 +20,15 @@ Ce dépôt contient un projet DevOps complet intégrant :
 - GitLab Runner (pour le CI/CD)
 
 ---
+## Sources :
+
+https://docs.docker.com
+
+https://docs.ansible.com
+
+https://prometheus.io/docs
+
+---
 
 Contribuer
 
