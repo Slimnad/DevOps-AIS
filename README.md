@@ -32,14 +32,7 @@ Ce dépôt contient un projet DevOps complet intégrant :
 
 ##  Structure du projet
 
-projet-devops/
-├── app/ # Application Node.js + tests Jest
-├── Dockerfile # Image de l'application
-├── docker-compose.yml # Orchestration des services
-├── ansible/ # Playbook + tests d'infra
-├── .gitlab-ci.yml # Pipeline GitLab
-├── monitoring/ # Prometheus + Grafana
-└── README.md # Documentation
+
 
 ---
 
