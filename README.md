@@ -24,13 +24,22 @@ Ce dépôt contient un projet DevOps complet intégrant :
 ## Prérequis
 
 - Docker & Docker Compose
-- Node.js (version recommandée: 14+)
-- Ansible (version recommandée: 2.9+)
-- GitLab Runner (pour le CI/CD)
+- Node.js (14+)
+- Ansible (2.9+)
+- Un compte GitLab avec CI/CD activé
 
 ---
 
+##  Structure du projet
 
+projet-devops/
+├── app/ # Application Node.js + tests Jest
+├── Dockerfile # Image de l'application
+├── docker-compose.yml # Orchestration des services
+├── ansible/ # Playbook + tests d'infra
+├── .gitlab-ci.yml # Pipeline GitLab
+├── monitoring/ # Prometheus + Grafana
+└── README.md # Documentation
 
 ---
 
