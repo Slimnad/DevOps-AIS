@@ -37,9 +37,13 @@ Ce dépôt contient un projet DevOps complet intégrant :
 ## Sources :
 
 *https://docs.docker.com*
+
 *https://docs.ansible.com*
+
 *https://docs.gitlab.com/ee/ci/*
+
 *https://prometheus.io/docs*
+
 *https://grafana.com/docs/*
 
 ---
