@@ -30,8 +30,6 @@ Ce dépôt contient un projet DevOps complet intégrant :
 
 ---
 
-##  Structure du projet
-
 
 
 ---
